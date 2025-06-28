@@ -179,5 +179,25 @@
         "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ithaka",
+        "id": "947b55f7-4da0-49cd-b2dc-53722fbd8cf2",
+        "title": "Intern \u2013 Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1751066142,
+        "date_posted": 1751066142,
+        "url": "https://www.ithaka.org/job/4580969005?gh_jid=4580969005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ithaka",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
